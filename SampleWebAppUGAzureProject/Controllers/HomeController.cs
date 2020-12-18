@@ -15,7 +15,7 @@ namespace SampleWebAppUGAzureProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Utkarsh Gami";
+            ViewBag.Message = "Utkarsh Gami! New";
 
             return View();
         }
